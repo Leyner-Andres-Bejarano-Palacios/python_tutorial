@@ -12,3 +12,7 @@ In order to solve this I need to access all of the elements in the array, so is 
 
 Q1 : Am I creating a new object in every iteration ?
 Q" : Should I use the N.lenght or put that in an array ?
+
+### 1108. Defanging an IP Address
+
+Like the java implementation, we need a for loop though all of the elements in this element, now, in term of the string creation in every iteration, I dont know by now if there is any solution similar to stringbuilder 
